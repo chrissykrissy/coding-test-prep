@@ -21,7 +21,7 @@ public class Q791CustomSortString {
 
 
         String[] sArr = s.split("");
-        StringBuilder sb = new StringBuilder();
+        //StringBuilder sb = new StringBuilder();
         if(s.contains(order)){
             sb.append(order);
         }
